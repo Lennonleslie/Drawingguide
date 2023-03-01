@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-132d6b2b","path":"/NBSJ/","title":"简介","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1673448153000,"contributors":[{"name":"lennonleslie","email":"lennonleslie@hotmail.com","commits":1}]},"filePathRelative":"NBSJ/readme.md"}');export{e as data};
